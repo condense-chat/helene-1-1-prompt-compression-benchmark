@@ -1,0 +1,10 @@
+SHA-256 hashes of the compressed outputs behind these results. The outputs are not published.
+Band sets hold 166 passages x 10 languages; curve sets hold 166 passages x 10 languages x 3 rates.
+
+212817987ea10e8f0099cf7a76df4086cba813dd420ee75fbeb8226a7f26a34d  Helene 1.1, ~50% band
+d27eb252a327816a6f68aafb92615a434359774d08fb129e626174ee40f80938  Helene 1.1, curve (nominal 0.33 / 0.5 / 0.75)
+68ed81045a1b9a9c9cc9c5678f7472085f42eb06e54e830d49d54e75b3517dea  Helene 1, curve (nominal 0.33 / 0.5 / 0.75)
+626c992cc59d30d9c9e664553e0309b4fcbfb409c778f835173913292c631621  bear-2, ~50% band
+efdd7ab1ebe39f307b5e400d972b6cbb414e9adc9bde920a65ed811645271f16  kompress-v2, ~50% band
+
+The hashes let the authors show later that these exact outputs were the ones scored.

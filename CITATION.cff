@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite them as below, and also cite the Lost in Compression benchmark, Belebele and FLORES-200."
+title: "Helene 1.1 Prompt Compression Benchmark: Accuracy and Rate Fidelity on Lost in Compression"
+type: dataset
+authors:
+  - family-names: Filipas
+    given-names: Illia
+  - name: condense
+date-released: 2026-11-07
+url: "https://condense.chat/blog/helene-1-1/"
+repository-code: "https://github.com/condense-chat/helene-1-1-prompt-compression-benchmark"
+license: CC-BY-SA-4.0
+keywords:
+  - prompt compression
+  - context compression
+  - token reduction
+  - LLM
+  - LLM evaluation
+  - multilingual
+  - benchmark
+  - reproducibility
+  - Belebele
+  - Lost in Compression
+references:
+  - type: article
+    title: "Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors"
+    authors:
+      - family-names: Lukauskas
+        given-names: Mantas
+    year: 2026
+    url: "https://arxiv.org/abs/2608.26175"
+  - type: conference-paper
+    title: "The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants"
+    authors:
+      - family-names: Bandarkar
+        given-names: Lucas
+      - name: "et al."
+    year: 2024
+    collection-title: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+    url: "https://aclanthology.org/2024.acl-long.44/"
+  - type: article
+    title: "No Language Left Behind: Scaling Human-Centered Machine Translation"
+    authors:
+      - name: "NLLB Team"
+    year: 2022
+    url: "https://arxiv.org/abs/2207.04672"

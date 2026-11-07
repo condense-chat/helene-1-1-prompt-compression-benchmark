@@ -1,0 +1,6 @@
+model,helene-1.1,bear-2,kompress-v2,margin_vs_bear-2,margin_vs_kompress-v2
+claude-haiku-4-5,82.55,76.233,70.067,6.317,12.483
+claude-sonnet-5,89.117,85.233,79.683,3.883,9.433
+gpt-5.6-luna,87.067,82.733,77.55,4.333,9.517
+gemini-3.6-flash,86.617,79.533,68.95,7.083,17.667
+mean of four,86.338,80.933,74.062,5.404,12.275

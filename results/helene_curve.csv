@@ -1,0 +1,7 @@
+system,nominal_rate,accuracy,keep_rate
+helene-1,0.33,63.667,0.311
+helene-1,0.5,73.208,0.476
+helene-1,0.75,86.292,0.729
+helene-1.1,0.33,72.85,0.322
+helene-1.1,0.5,82.3,0.493
+helene-1.1,0.75,90.558,0.74

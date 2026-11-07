@@ -1,0 +1,5 @@
+band,competitor,helene_keep,competitor_keep,margin_points,ci95_low,ci95_high
+~0.50,bear-2,0.493,0.483,7.083,5.667,8.489
+~0.50,kompress-v2,0.493,0.627,12.542,10.686,14.552
+~0.75,bear-2,0.74,0.707,3.725,2.863,4.651
+~0.75,kompress-v2,0.74,0.795,12.008,10.119,13.968

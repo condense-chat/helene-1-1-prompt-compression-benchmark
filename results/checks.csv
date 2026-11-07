@@ -1,0 +1,20 @@
+check,published,reproduced,status
+"Helene 1.1 accuracy, ~0.50 band",82.12,82.12,OK
+"Margin vs bear-2, ~0.50 band",7.08,7.08,OK
+"Margin vs kompress-v2, ~0.50 band",12.54,12.54,OK
+"Keep-rate gap vs kompress-v2, ~0.50 band (points)",13.40,13.40,OK
+"Keep-rate gap vs bear-2, ~0.50 band (points)",1.02,1.02,OK
+"Helene 1.1 accuracy, ~0.75 band",90.56,90.56,OK
+"Margin vs bear-2, ~0.75 band",3.72,3.72,OK
+"Margin vs kompress-v2, ~0.75 band",12.01,12.01,OK
+"Keep-rate gap vs kompress-v2, ~0.75 band (points)",5.46,5.46,OK
+"Keep-rate gap vs bear-2, ~0.75 band (points)",3.28,3.28,OK
+Helene 1.1 accuracy at nominal 0.33,72.85,72.85,OK
+Mean margin vs bear-2 across models,5.40,5.40,OK
+Mean margin vs kompress-v2 across models,12.27,12.27,OK
+Smallest per-model margin vs bear-2,3.88,3.88,OK
+Largest per-model margin vs bear-2,7.08,7.08,OK
+Smallest per-model margin vs kompress-v2,9.43,9.43,OK
+Largest per-model margin vs kompress-v2,17.67,17.67,OK
+kompress-v2 keep spread across languages (x),1.68,1.68,OK
+bear-2 keep spread across languages (x),23.6,23.6,OK

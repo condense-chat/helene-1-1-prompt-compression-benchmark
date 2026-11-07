@@ -1,0 +1,9 @@
+{
+  "note": "Reported by the authors from the unpublished compressed outputs, ~50% band. Not rebuildable from this repository.",
+  "passages": 1660,
+  "mean_budget_share": 0.494,
+  "mean_abs_error_points": 0.48,
+  "share_exact_percent": 46.1,
+  "share_within_one_token_percent": 88.5,
+  "max_language_mean_abs_error_points": 0.64
+}

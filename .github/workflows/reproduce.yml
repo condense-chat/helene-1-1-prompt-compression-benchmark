@@ -1,0 +1,24 @@
+name: reproduce
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Rebuild every number and check it against the write-up
+        run: python scripts/reproduce.py
+      - name: Committed results must match the rebuilt ones
+        run: git diff --exit-code results/
+      - name: Install the Inter font used by the figures
+        run: sudo apt-get update && sudo apt-get install -y fonts-inter && rm -rf ~/.cache/matplotlib
+      - name: Rebuild every figure
+        run: python scripts/make_figures.py
