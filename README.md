@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="Helene 1.1 prompt compression benchmark: accuracy and rate fidelity on Lost in Compression, 10 languages, 4 LLMs" width="100%">
 </p>
 
+<p align="center"><a href="https://condense.chat">condense.chat</a> · <a href="https://condense.chat/docs/">condense.chat/docs</a> · <a href="https://helm.condense.chat">helm.condense.chat</a></p>
+
 <p align="center">
   <a href="https://github.com/condense-chat/helene-1-1-prompt-compression-benchmark/actions/workflows/reproduce.yml"><img src="https://github.com/condense-chat/helene-1-1-prompt-compression-benchmark/actions/workflows/reproduce.yml/badge.svg" alt="reproduce workflow status"></a>
   <img src="https://img.shields.io/badge/benchmark-Lost%20in%20Compression-2563EB" alt="Benchmark: Lost in Compression">
